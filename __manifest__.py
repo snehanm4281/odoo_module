@@ -4,8 +4,7 @@
     'summary': 'Manage real estate properties',
     'description': 'Module to manage properties, owners, buyers and property status.',
     'category': 'Real Estate',
-    'author': 'name',
-    'website': 'https://yourwebsite.com',
+    'author': 'Sneha',
     'depends': ['base'],
     'data': [
         'security/ir.model.access.csv',
