@@ -4,7 +4,7 @@
     'summary': 'Manage real estate properties',
     'description': 'Module to manage properties, owners, buyers and property status.',
     'category': 'Real Estate',
-    'author': 'Your Name',
+    'author': 'name',
     'website': 'https://yourwebsite.com',
     'depends': ['base'],
     'data': [
